@@ -1,6 +1,6 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
-  
- <div align="center">Welcome friends</div>  
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTem0HyNh-bBCo5fd5TdJ_ANI8e10HlmVGT924olrQx_w&s" align="left" height="200" width="600" />  
+
+ <h2 align="center">Welcome friends</h2>  
   
 
 - 🔭 I’m currently working on https://github.com/malyniak/hibernate_javarush_project  
