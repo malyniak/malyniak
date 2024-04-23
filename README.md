@@ -70,30 +70,3 @@
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malyniak&hide_border=true&layout=compact" align="center" /></div>  
-
-<br/>  
-
-
-## Recent Blog Posts  
-<img src="https://img.freepik.com/free-vector/gradient-emerald-background_23-2150317404.jpg?w=1060&t=st=1713865032~exp=1713865632~hmac=5d657de61094795ec7885cfd4e37bdbb85e6af416bdeff65383d5c07137eb616" align="left" height="200" width="400" />  
-  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
