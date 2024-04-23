@@ -1,7 +1,6 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" height="" width="600" />  
   
-
-### <div align="center">I'm Vova, a full-time backend developer,  studying since 2023</div>  
+ <div align="center">Welcome friends</div>  
   
 
 - 🔭 I’m currently working on https://github.com/malyniak/hibernate_javarush_project  
