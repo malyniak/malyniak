@@ -13,6 +13,9 @@
 
 
 ## My Skill Set  
+<div align="center">
+ 
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -57,7 +60,7 @@
 </td></tr></table>  
 
 <br/>  
-
+</div>
 
 ## Connect with me  
 <div align="left">
