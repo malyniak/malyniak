@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/b2/c0/d2/b2c0d200ab283e265ca8917feb3f9bfb.jpg" align="left" height="200" width="900" />  
+<img src="https://i.pinimg.com/736x/b2/c0/d2/b2c0d200ab283e265ca8917feb3f9bfb.jpg" align="left" height="300" width="900" />  
 <br/> 
  <h2 align="center">Welcome friends</h2>  
   
