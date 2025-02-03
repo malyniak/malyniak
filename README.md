@@ -8,11 +8,7 @@
 
 - 🌱 Now I work freelance, helping a senior friend write a web application, where I get acquainted with Angular and Spring Webflux, and in my free time I write my pet project
 
- <table border="1" width="100%">
-    <tr>
-      <!-- Frontend -->
-      <td>
-        <table width="100%" height="300">
+ <table width="100%" height="300">
           <tr>
             <td align="left" valign="top">
               <b>Frontend</b>
@@ -35,5 +31,56 @@
             </td>
           </tr>
         </table>
+      </td>
+      
+      <!-- Backend -->
+      <td>
+        <table width="100%" height="300">
+          <tr>
+            <td align="left" valign="top">
+              <b>Backend</b>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle">
+              <a href="https://docs.spring.io/spring-framework/docs/current/reference/html/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50">
+              </a>
+              <a href="https://www.java.com/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50">
+              </a>
+              <a href="https://redis.io/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50">
+              </a>
+              <a href="https://www.mysql.com/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50">
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+      
+      <!-- DevOps -->
+      <td>
+        <table width="100%" height="300">
+          <tr>
+            <td align="left" valign="top">
+              <b>DevOps</b>
+            </td>
+          </tr>
+          <tr>
+            <td align="center" valign="middle">
+              <a href="https://www.docker.com/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50">
+              </a>
+              <a href="https://git-scm.com/" target="_blank">
+                <img src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git" height="50">
+              </a>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
 ## Github Stats  
 <div align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malyniak&hide_border=true&layout=compact" align="center" /></div>  
