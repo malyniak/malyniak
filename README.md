@@ -3,10 +3,10 @@
  <h2 align="center">Welcome friends</h2>  
   
 
-- 🔭 I’m currently working on https://github.com/malyniak/hibernate_javarush_project  
+- 🔭 I’m currently working on https://github.com/malyniak/hibernate_javarush_project
   
 
-- 🌱 I’m currently learning SpringBoot and Docker  
+- 🌱 Now I work freelance, helping a senior friend write a web application, where I get acquainted with Angular and Spring Webflux, and in my free time I write my pet project
   
 
 <br/>  
@@ -21,7 +21,8 @@
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
+<a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/c3/27/19/c327197fee8696bcadd92b3f32f6c218.jpg" alt="CSS3" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
