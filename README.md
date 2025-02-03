@@ -18,7 +18,7 @@
 
 <table><tr><td width="33%">
 
-<div>Frontend valign="top"</div>
+<div valign="top">Frontend </div>
  
 <div align="center" valign="middle">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg"alt="HTML5" height="50" /></a>  
