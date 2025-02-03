@@ -26,7 +26,7 @@
 <a href="https://angular.dev/" target="_blank"><img style="margin: 10px" src="https://i.pinimg.com/736x/c3/27/19/c327197fee8696bcadd92b3f32f6c218.jpg" alt="CSS3" height="50" /></a>  
 </div>
 
-</td><td valign="middle" width="33%">
+</td><td valign="top" width="33%">
 
 
 
