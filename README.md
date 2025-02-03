@@ -8,8 +8,6 @@
 
 - 🌱 Now I work freelance, helping a senior friend write a web application, where I get acquainted with Angular and Spring Webflux, and in my free time I write my pet project
   
-
-<br/>  
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <!-- Frontend -->
@@ -52,7 +50,31 @@
         <a href="https://redis.io/" target="_blank">
           <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
         </a>
-        <a href="https://www.mysql.com/" target="_
+        <a href="https://www.mysql.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+        </a>
+      </div>
+    </td>
+
+    <!-- DevOps -->
+    <td style="position: relative; height: 300px; width: 33%; border: 1px solid #ccc;">
+      <div style="position: absolute; top: 0; left: 0; padding: 5px;">
+        <h3 style="margin: 0;">DevOps</h3>
+      </div>
+      <div style="display: flex; justify-content: center; align-items: center; height: 100%;">
+        <!-- Іконки DevOps (наприклад, Docker, Git, Jenkins, тощо) -->
+        <a href="https://www.docker.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
+        </a>
+        <a href="https://git-scm.com/" target="_blank">
+          <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-original-wordmark.svg" alt="Git" height="50" />
+        </a>
+        <!-- Додайте інші іконки за потреби -->
+      </div>
+    </td>
+  </tr>
+</table>
+
 
 
 ## Github Stats  
