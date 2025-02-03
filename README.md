@@ -7,15 +7,8 @@
   
 
 - 🌱 Now I work freelance, helping a senior friend write a web application, where I get acquainted with Angular and Spring Webflux, and in my free time I write my pet project
-  
-<!DOCTYPE html>
-<html lang="uk">
-<head>
-  <meta charset="UTF-8">
-  <title>My Skill Set</title>
-</head>
-<body>
-  <table border="1" width="100%">
+
+ <table border="1" width="100%">
     <tr>
       <!-- Frontend -->
       <td>
