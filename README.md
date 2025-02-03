@@ -16,7 +16,7 @@
 <div align="center">
  
 
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="middle" width="33%">
 
 
 
