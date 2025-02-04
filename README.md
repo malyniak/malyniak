@@ -3,7 +3,7 @@
  <h2 align="center">Welcome friends</h2>  
 
 
-- 🔭 I’m currently working on https://github.com/malyniak/hibernate_javarush_project  
+- 🔭 I’m currently working on https://github.com/malyniak/prodajka
 
 
 - 🌱 Now I work freelance, helping a senior friend write a web application, where I get acquainted with Angular and Spring Webflux, and in my free time I write my pet project
